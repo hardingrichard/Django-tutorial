@@ -5,3 +5,4 @@ tasks:
     command: npm run server
   - init: gp sync-await installation
     command: npm run client
+image: gitpod/workspace-postgres
